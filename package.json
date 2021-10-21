@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "parcel" : "npx parcel index.html"
+    "parcel": "npx parcel index.html"
   },
   "devDependencies": {
     "parcel": "^2.0.0-rc.0",
